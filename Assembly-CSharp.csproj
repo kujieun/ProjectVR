@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{D0BDEF6D-5DBB-3C76-A993-2CEE969C89E8}</ProjectGuid>
+    <ProjectGuid>{AB905E07-CE13-5144-44E1-0B6DDB28E662}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -1443,23 +1443,23 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.XR.Hands.Samples.VisualizerSample.csproj">
-      <Project>{F24CA98E-0623-1181-4800-99D2D9C9CDF4}</Project>
+      <Project>{A1CFC90A-A561-A1D3-3F27-263D3E9BB467}</Project>
       <Name>Unity.XR.Hands.Samples.VisualizerSample</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.Hands.Editor.csproj">
-      <Project>{96FE4D3A-6942-7ACF-EBE0-9AEA3FC50593}</Project>
+      <Project>{62FBB4D8-443B-6730-8DF0-7C9002E61E03}</Project>
       <Name>Unity.XR.Interaction.Toolkit.Samples.Hands.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj">
-      <Project>{F4EA706E-8441-3276-9DF2-625D2B054BFE}</Project>
+      <Project>{C50A8D71-5BA8-07F9-B36F-93654543974C}</Project>
       <Name>Unity.XR.Interaction.Toolkit.Samples.StarterAssets</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.Hands.csproj">
-      <Project>{98459877-B972-F648-4EEA-73F90D0288C0}</Project>
+      <Project>{5D485CBB-7D05-1D0A-3270-D883A91EC2DD}</Project>
       <Name>Unity.XR.Interaction.Toolkit.Samples.Hands</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj">
-      <Project>{AD4199B0-9BB0-6BAE-8023-CA304EC1E274}</Project>
+      <Project>{C4891042-D742-36A1-E475-8A5A5B933487}</Project>
       <Name>Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor</Name>
     </ProjectReference>
   </ItemGroup>
